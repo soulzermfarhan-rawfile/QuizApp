@@ -1,0 +1,2442 @@
+{
+  "success": true,
+  "data": [
+    {
+      "id": 1,
+      "category_id": 1,
+      "text_en": "The triangular sign in the picture means",
+      "text_ur": "",
+      "text": "The triangular sign in the picture means",
+      "image_url": "sign_01.png",
+      "created_at": "2026-05-10T17:09:40.000Z",
+      "updated_at": "2026-05-16T20:01:53.000Z",
+      "category_name": "Traffic Signs",
+      "category_slug": "traffic-signs",
+      "optionsObject": [
+        {
+          "optionId": 1,
+          "text_en": "A warning sign",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 1
+        },
+        {
+          "optionId": 2,
+          "text_en": "A prohibitive sign",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 3,
+          "text_en": "An indicative sign",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 4,
+          "text_en": "A directional sign",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "category_id": 1,
+      "text_en": "The sign in the picture means",
+      "text_ur": "",
+      "text": "The sign in the picture means",
+      "image_url": "sign_02.png",
+      "created_at": "2026-05-10T17:09:40.000Z",
+      "updated_at": "2026-05-16T20:01:53.000Z",
+      "category_name": "Traffic Signs",
+      "category_slug": "traffic-signs",
+      "optionsObject": [
+        {
+          "optionId": 5,
+          "text_en": "Steep downhill road",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 6,
+          "text_en": "Sliding",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 7,
+          "text_en": "Downhill road",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 8,
+          "text_en": "Uphill road",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 1
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "category_id": 1,
+      "text_en": "The sign in the picture means",
+      "text_ur": "",
+      "text": "The sign in the picture means",
+      "image_url": "sign_03.png",
+      "created_at": "2026-05-10T17:09:40.000Z",
+      "updated_at": "2026-05-16T20:01:53.000Z",
+      "category_name": "Traffic Signs",
+      "category_slug": "traffic-signs",
+      "optionsObject": [
+        {
+          "optionId": 9,
+          "text_en": "Steep downhill road",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 1
+        },
+        {
+          "optionId": 10,
+          "text_en": "Sliding",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 11,
+          "text_en": "Downhill road",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 12,
+          "text_en": "Steep uphill road",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "category_id": 1,
+      "text_en": "The sign in the picture means",
+      "text_ur": "",
+      "text": "The sign in the picture means",
+      "image_url": "sign_04.png",
+      "created_at": "2026-05-10T17:09:40.000Z",
+      "updated_at": "2026-05-16T20:01:53.000Z",
+      "category_name": "Traffic Signs",
+      "category_slug": "traffic-signs",
+      "optionsObject": [
+        {
+          "optionId": 13,
+          "text_en": "Carriageway narrow",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 1
+        },
+        {
+          "optionId": 14,
+          "text_en": "Road narrows on the left side",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 15,
+          "text_en": "Road narrows on the right side",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 16,
+          "text_en": "Reduce speed",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "category_id": 1,
+      "text_en": "The sign in the picture means",
+      "text_ur": "",
+      "text": "The sign in the picture means",
+      "image_url": "sign_05.png",
+      "created_at": "2026-05-10T17:09:40.000Z",
+      "updated_at": "2026-05-16T20:01:53.000Z",
+      "category_name": "Traffic Signs",
+      "category_slug": "traffic-signs",
+      "optionsObject": [
+        {
+          "optionId": 17,
+          "text_en": "Watch for falling rocks",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 1
+        },
+        {
+          "optionId": 18,
+          "text_en": "Dangerous hillside road",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 19,
+          "text_en": "Mind downhill sliding",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 20,
+          "text_en": "Steep downhill road",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "category_id": 1,
+      "text_en": "The sign in the picture means",
+      "text_ur": "",
+      "text": "The sign in the picture means",
+      "image_url": "sign_06.png",
+      "created_at": "2026-05-10T17:09:40.000Z",
+      "updated_at": "2026-05-16T20:01:53.000Z",
+      "category_name": "Traffic Signs",
+      "category_slug": "traffic-signs",
+      "optionsObject": [
+        {
+          "optionId": 21,
+          "text_en": "Mind danger",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 22,
+          "text_en": "Mind side wind",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 1
+        },
+        {
+          "optionId": 23,
+          "text_en": "Watch for falling rocks",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 24,
+          "text_en": "Dangerous hillside road",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "category_id": 1,
+      "text_en": "The sign in the picture means",
+      "text_ur": "",
+      "text": "The sign in the picture means",
+      "image_url": "sign_07.png",
+      "created_at": "2026-05-10T17:09:40.000Z",
+      "updated_at": "2026-05-16T20:01:53.000Z",
+      "category_name": "Traffic Signs",
+      "category_slug": "traffic-signs",
+      "optionsObject": [
+        {
+          "optionId": 25,
+          "text_en": "Tunnel",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 26,
+          "text_en": "Culvert bridge",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 27,
+          "text_en": "Hump bridge",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 1
+        },
+        {
+          "optionId": 28,
+          "text_en": "Overflowing bridge",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "category_id": 1,
+      "text_en": "The sign in the picture means",
+      "text_ur": "",
+      "text": "The sign in the picture means",
+      "image_url": "sign_08.png",
+      "created_at": "2026-05-10T17:09:40.000Z",
+      "updated_at": "2026-05-16T20:01:53.000Z",
+      "category_name": "Traffic Signs",
+      "category_slug": "traffic-signs",
+      "optionsObject": [
+        {
+          "optionId": 29,
+          "text_en": "Dangerous hillside road",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 30,
+          "text_en": "Watch for pedestrians",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 31,
+          "text_en": "Watch for children",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 32,
+          "text_en": "Men at work",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 1
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "category_id": 1,
+      "text_en": "The sign in the picture means",
+      "text_ur": "",
+      "text": "The sign in the picture means",
+      "image_url": "sign_09.png",
+      "created_at": "2026-05-10T17:09:40.000Z",
+      "updated_at": "2026-05-16T20:01:53.000Z",
+      "category_name": "Traffic Signs",
+      "category_slug": "traffic-signs",
+      "optionsObject": [
+        {
+          "optionId": 33,
+          "text_en": "Hump road",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 34,
+          "text_en": "House",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 35,
+          "text_en": "Tunnel",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 1
+        },
+        {
+          "optionId": 36,
+          "text_en": "Village",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "category_id": 1,
+      "text_en": "The sign in the picture means",
+      "text_ur": "",
+      "text": "The sign in the picture means",
+      "image_url": "sign_10.png",
+      "created_at": "2026-05-10T17:09:40.000Z",
+      "updated_at": "2026-05-16T20:01:53.000Z",
+      "category_name": "Traffic Signs",
+      "category_slug": "traffic-signs",
+      "optionsObject": [
+        {
+          "optionId": 37,
+          "text_en": "Accident ahead",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 38,
+          "text_en": "No passing",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 39,
+          "text_en": "Stop",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 40,
+          "text_en": "Danger",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 1
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "category_id": 1,
+      "text_en": "The sign in the picture means",
+      "text_ur": "",
+      "text": "The sign in the picture means",
+      "image_url": "sign_11.png",
+      "created_at": "2026-05-10T17:09:40.000Z",
+      "updated_at": "2026-05-16T20:01:53.000Z",
+      "category_name": "Traffic Signs",
+      "category_slug": "traffic-signs",
+      "optionsObject": [
+        {
+          "optionId": 41,
+          "text_en": "Turn left or turn right",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 42,
+          "text_en": "No passing",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 43,
+          "text_en": "Two-way traffic",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 44,
+          "text_en": "Minor cross road",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 1
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "category_id": 1,
+      "text_en": "The sign in the picture means",
+      "text_ur": "",
+      "text": "The sign in the picture means",
+      "image_url": "sign_12.png",
+      "created_at": "2026-05-10T17:09:40.000Z",
+      "updated_at": "2026-05-16T20:01:53.000Z",
+      "category_name": "Traffic Signs",
+      "category_slug": "traffic-signs",
+      "optionsObject": [
+        {
+          "optionId": 45,
+          "text_en": "Un-even road",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 1
+        },
+        {
+          "optionId": 46,
+          "text_en": "Hump bridge",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 47,
+          "text_en": "Tunnel",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 48,
+          "text_en": "Embankment road",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "category_id": 1,
+      "text_en": "The sign in the picture means",
+      "text_ur": "",
+      "text": "The sign in the picture means",
+      "image_url": "sign_13.png",
+      "created_at": "2026-05-10T17:09:40.000Z",
+      "updated_at": "2026-05-16T20:01:53.000Z",
+      "category_name": "Traffic Signs",
+      "category_slug": "traffic-signs",
+      "optionsObject": [
+        {
+          "optionId": 49,
+          "text_en": "No animal passing",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 50,
+          "text_en": "Cattle crossing",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 1
+        },
+        {
+          "optionId": 51,
+          "text_en": "Farm house",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 52,
+          "text_en": "Animal-driven cart",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "category_id": 1,
+      "text_en": "The sign in the picture means",
+      "text_ur": "",
+      "text": "The sign in the picture means",
+      "image_url": "sign_14.png",
+      "created_at": "2026-05-10T17:09:40.000Z",
+      "updated_at": "2026-05-16T20:01:53.000Z",
+      "category_name": "Traffic Signs",
+      "category_slug": "traffic-signs",
+      "optionsObject": [
+        {
+          "optionId": 53,
+          "text_en": "Bridge widens",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 54,
+          "text_en": "Bridge widens on both sides",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 55,
+          "text_en": "Narrow bridge",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 1
+        },
+        {
+          "optionId": 56,
+          "text_en": "Hump bridge",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "category_id": 1,
+      "text_en": "The sign in the picture means",
+      "text_ur": "",
+      "text": "The sign in the picture means",
+      "image_url": "sign_15.png",
+      "created_at": "2026-05-10T17:09:40.000Z",
+      "updated_at": "2026-05-16T20:01:53.000Z",
+      "category_name": "Traffic Signs",
+      "category_slug": "traffic-signs",
+      "optionsObject": [
+        {
+          "optionId": 57,
+          "text_en": "No passing through level crossing",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 58,
+          "text_en": "Crosswalk",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 59,
+          "text_en": "Unmanned level crossing",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 60,
+          "text_en": "Level crossing (with gate)",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 1
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "category_id": 1,
+      "text_en": "The sign in the picture means",
+      "text_ur": "",
+      "text": "The sign in the picture means",
+      "image_url": "sign_16.png",
+      "created_at": "2026-05-10T17:09:40.000Z",
+      "updated_at": "2026-05-16T20:01:53.000Z",
+      "category_name": "Traffic Signs",
+      "category_slug": "traffic-signs",
+      "optionsObject": [
+        {
+          "optionId": 61,
+          "text_en": "Level crossing (without gate)",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 1
+        },
+        {
+          "optionId": 62,
+          "text_en": "No passing",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 63,
+          "text_en": "No passing through level crossing",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 64,
+          "text_en": "Manned level crossing",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "category_id": 1,
+      "text_en": "The sign in the picture means",
+      "text_ur": "",
+      "text": "The sign in the picture means",
+      "image_url": "sign_17.png",
+      "created_at": "2026-05-10T17:09:40.000Z",
+      "updated_at": "2026-05-16T20:01:53.000Z",
+      "category_name": "Traffic Signs",
+      "category_slug": "traffic-signs",
+      "optionsObject": [
+        {
+          "optionId": 65,
+          "text_en": "No passing for non-motorized vehicles",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 66,
+          "text_en": "Cyclists",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 1
+        },
+        {
+          "optionId": 67,
+          "text_en": "Passing for non-motorized vehicles",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 68,
+          "text_en": "No passing for bicycles",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "category_id": 1,
+      "text_en": "The sign in the picture means",
+      "text_ur": "",
+      "text": "The sign in the picture means",
+      "image_url": "sign_18.png",
+      "created_at": "2026-05-10T17:09:40.000Z",
+      "updated_at": "2026-05-16T20:01:53.000Z",
+      "category_name": "Traffic Signs",
+      "category_slug": "traffic-signs",
+      "optionsObject": [
+        {
+          "optionId": 69,
+          "text_en": "Bypassing from the left side",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 70,
+          "text_en": "Dual Carriageway ahead",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 1
+        },
+        {
+          "optionId": 71,
+          "text_en": "Bypassing from the right side",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 72,
+          "text_en": "No bypassing",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "category_id": 1,
+      "text_en": "The sign in the picture means",
+      "text_ur": "",
+      "text": "The sign in the picture means",
+      "image_url": "sign_19.png",
+      "created_at": "2026-05-10T17:09:40.000Z",
+      "updated_at": "2026-05-16T20:01:53.000Z",
+      "category_name": "Traffic Signs",
+      "category_slug": "traffic-signs",
+      "optionsObject": [
+        {
+          "optionId": 73,
+          "text_en": "Right turn is allowed",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 74,
+          "text_en": "Changing to right lane is prohibited",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 75,
+          "text_en": "Right U turn is prohibited",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 76,
+          "text_en": "Right turn is prohibited",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 1
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "category_id": 1,
+      "text_en": "The sign in the picture means",
+      "text_ur": "",
+      "text": "The sign in the picture means",
+      "image_url": "sign_20.png",
+      "created_at": "2026-05-10T17:09:40.000Z",
+      "updated_at": "2026-05-16T20:01:53.000Z",
+      "category_name": "Traffic Signs",
+      "category_slug": "traffic-signs",
+      "optionsObject": [
+        {
+          "optionId": 77,
+          "text_en": "No U turn",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 1
+        },
+        {
+          "optionId": 78,
+          "text_en": "No left turn",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 79,
+          "text_en": "U turn is allowed",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 80,
+          "text_en": "Left turn is allowed",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "category_id": 1,
+      "text_en": "The sign in the picture means",
+      "text_ur": "",
+      "text": "The sign in the picture means",
+      "image_url": "sign_21.png",
+      "created_at": "2026-05-10T17:09:40.000Z",
+      "updated_at": "2026-05-16T20:01:53.000Z",
+      "category_name": "Traffic Signs",
+      "category_slug": "traffic-signs",
+      "optionsObject": [
+        {
+          "optionId": 81,
+          "text_en": "No road borrowing",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 82,
+          "text_en": "No overtaking",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 1
+        },
+        {
+          "optionId": 83,
+          "text_en": "Overtaking ban is lifted",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 84,
+          "text_en": "Overtaking is allowed",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "category_id": 1,
+      "text_en": "The sign in the picture means",
+      "text_ur": "",
+      "text": "The sign in the picture means",
+      "image_url": "sign_22.png",
+      "created_at": "2026-05-10T17:09:40.000Z",
+      "updated_at": "2026-05-16T20:01:53.000Z",
+      "category_name": "Traffic Signs",
+      "category_slug": "traffic-signs",
+      "optionsObject": [
+        {
+          "optionId": 85,
+          "text_en": "Left turn is allowed",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 86,
+          "text_en": "No left turn",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 1
+        },
+        {
+          "optionId": 87,
+          "text_en": "Left U turn is allowed",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 88,
+          "text_en": "No lane changing to the left side",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "category_id": 1,
+      "text_en": "The sign in the picture means",
+      "text_ur": "",
+      "text": "The sign in the picture means",
+      "image_url": "sign_23.png",
+      "created_at": "2026-05-10T17:09:40.000Z",
+      "updated_at": "2026-05-16T20:01:53.000Z",
+      "category_name": "Traffic Signs",
+      "category_slug": "traffic-signs",
+      "optionsObject": [
+        {
+          "optionId": 89,
+          "text_en": "Horn ban is lifted",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 90,
+          "text_en": "Horn is allowed",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 91,
+          "text_en": "Radio listening is prohibited",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 92,
+          "text_en": "Use of horn prohibited",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 1
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "category_id": 1,
+      "text_en": "The sign in the picture means",
+      "text_ur": "",
+      "text": "The sign in the picture means",
+      "image_url": "sign_24.png",
+      "created_at": "2026-05-10T17:09:40.000Z",
+      "updated_at": "2026-05-16T20:01:53.000Z",
+      "category_name": "Traffic Signs",
+      "category_slug": "traffic-signs",
+      "optionsObject": [
+        {
+          "optionId": 93,
+          "text_en": "Width is limited to 3 m",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 1
+        },
+        {
+          "optionId": 94,
+          "text_en": "Height is limited to 3 m",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 95,
+          "text_en": "Width limit is lifted",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 96,
+          "text_en": "Bridge width is limited",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "category_id": 1,
+      "text_en": "The sign in the picture means",
+      "text_ur": "",
+      "text": "The sign in the picture means",
+      "image_url": "sign_25.png",
+      "created_at": "2026-05-10T17:09:40.000Z",
+      "updated_at": "2026-05-16T20:01:53.000Z",
+      "category_name": "Traffic Signs",
+      "category_slug": "traffic-signs",
+      "optionsObject": [
+        {
+          "optionId": 97,
+          "text_en": "Vehicle distance is limited",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 98,
+          "text_en": "Height is limited to 3.5 m",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 1
+        },
+        {
+          "optionId": 99,
+          "text_en": "Width is limited to 3.5 m",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 100,
+          "text_en": "Height limit is lifted",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "category_id": 1,
+      "text_en": "The sign in the picture means",
+      "text_ur": "",
+      "text": "The sign in the picture means",
+      "image_url": "sign_26.png",
+      "created_at": "2026-05-10T17:09:40.000Z",
+      "updated_at": "2026-05-16T20:01:53.000Z",
+      "category_name": "Traffic Signs",
+      "category_slug": "traffic-signs",
+      "optionsObject": [
+        {
+          "optionId": 101,
+          "text_en": "Weight is limited",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 102,
+          "text_en": "Road number is 40",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 103,
+          "text_en": "Maximum speed limit is 40 KM",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 1
+        },
+        {
+          "optionId": 104,
+          "text_en": "40 KM Speed limit is lifted",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "category_id": 1,
+      "text_en": "The sign in the picture means",
+      "text_ur": "",
+      "text": "The sign in the picture means",
+      "image_url": "sign_27.png",
+      "created_at": "2026-05-10T17:09:40.000Z",
+      "updated_at": "2026-05-16T20:01:53.000Z",
+      "category_name": "Traffic Signs",
+      "category_slug": "traffic-signs",
+      "optionsObject": [
+        {
+          "optionId": 105,
+          "text_en": "Weight is limited",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 106,
+          "text_en": "Road number is 40",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 107,
+          "text_en": "Speed is limited to 40 KM",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 108,
+          "text_en": "40 KM Speed restriction is lifted",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 1
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "category_id": 1,
+      "text_en": "The sign in the picture means",
+      "text_ur": "",
+      "text": "The sign in the picture means",
+      "image_url": "sign_28.png",
+      "created_at": "2026-05-10T17:09:40.000Z",
+      "updated_at": "2026-05-16T20:01:53.000Z",
+      "category_name": "Traffic Signs",
+      "category_slug": "traffic-signs",
+      "optionsObject": [
+        {
+          "optionId": 109,
+          "text_en": "Going straight is allowed",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 110,
+          "text_en": "Going straight is prohibited",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 1
+        },
+        {
+          "optionId": 111,
+          "text_en": "Go straight fast",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 112,
+          "text_en": "One way road ahead",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "category_id": 1,
+      "text_en": "The sign in the picture means",
+      "text_ur": "",
+      "text": "The sign in the picture means",
+      "image_url": "sign_29.png",
+      "created_at": "2026-05-10T17:09:40.000Z",
+      "updated_at": "2026-05-16T20:01:53.000Z",
+      "category_name": "Traffic Signs",
+      "category_slug": "traffic-signs",
+      "optionsObject": [
+        {
+          "optionId": 113,
+          "text_en": "Axle weight is limited",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 114,
+          "text_en": "Height is limited by 6 m",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 115,
+          "text_en": "No entry for vehicles exceeding 6 ton per axle",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 1
+        },
+        {
+          "optionId": 116,
+          "text_en": "Width is limited",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "category_id": 1,
+      "text_en": "The sign in the picture means",
+      "text_ur": "",
+      "text": "The sign in the picture means",
+      "image_url": "sign_30.png",
+      "created_at": "2026-05-10T17:09:40.000Z",
+      "updated_at": "2026-05-16T20:01:53.000Z",
+      "category_name": "Traffic Signs",
+      "category_slug": "traffic-signs",
+      "optionsObject": [
+        {
+          "optionId": 117,
+          "text_en": "No motor vehicles",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 1
+        },
+        {
+          "optionId": 118,
+          "text_en": "No trucks",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 119,
+          "text_en": "Go straight",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 120,
+          "text_en": "Turn left",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "category_id": 1,
+      "text_en": "The sign in the picture means",
+      "text_ur": "",
+      "text": "The sign in the picture means",
+      "image_url": "sign_31.png",
+      "created_at": "2026-05-10T17:09:40.000Z",
+      "updated_at": "2026-05-16T20:01:53.000Z",
+      "category_name": "Traffic Signs",
+      "category_slug": "traffic-signs",
+      "optionsObject": [
+        {
+          "optionId": 121,
+          "text_en": "No motor vehicles",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 122,
+          "text_en": "No trucks allowed",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 1
+        },
+        {
+          "optionId": 123,
+          "text_en": "Go straight",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 124,
+          "text_en": "No entry",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "category_id": 1,
+      "text_en": "The sign in the picture means",
+      "text_ur": "",
+      "text": "The sign in the picture means",
+      "image_url": "sign_32.png",
+      "created_at": "2026-05-10T17:09:40.000Z",
+      "updated_at": "2026-05-16T20:01:53.000Z",
+      "category_name": "Traffic Signs",
+      "category_slug": "traffic-signs",
+      "optionsObject": [
+        {
+          "optionId": 125,
+          "text_en": "No entry",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 126,
+          "text_en": "Go straight ahead (mandatory)",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 1
+        },
+        {
+          "optionId": 127,
+          "text_en": "Turn right",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 128,
+          "text_en": "Turn left",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "category_id": 1,
+      "text_en": "The sign in the picture means",
+      "text_ur": "",
+      "text": "The sign in the picture means",
+      "image_url": "sign_33.png",
+      "created_at": "2026-05-10T17:09:40.000Z",
+      "updated_at": "2026-05-16T20:01:53.000Z",
+      "category_name": "Traffic Signs",
+      "category_slug": "traffic-signs",
+      "optionsObject": [
+        {
+          "optionId": 129,
+          "text_en": "No entry",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 130,
+          "text_en": "Go straight",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 131,
+          "text_en": "Turn left (mandatory)",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 1
+        },
+        {
+          "optionId": 132,
+          "text_en": "Turn right",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "category_id": 1,
+      "text_en": "The sign in the picture means",
+      "text_ur": "",
+      "text": "The sign in the picture means",
+      "image_url": "sign_34.png",
+      "created_at": "2026-05-10T17:09:40.000Z",
+      "updated_at": "2026-05-16T20:01:53.000Z",
+      "category_name": "Traffic Signs",
+      "category_slug": "traffic-signs",
+      "optionsObject": [
+        {
+          "optionId": 133,
+          "text_en": "No entry",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 134,
+          "text_en": "Turn left",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 135,
+          "text_en": "Turn right (mandatory)",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 1
+        },
+        {
+          "optionId": 136,
+          "text_en": "Go straight",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "category_id": 1,
+      "text_en": "The sign in the picture means",
+      "text_ur": "",
+      "text": "The sign in the picture means",
+      "image_url": "sign_35.png",
+      "created_at": "2026-05-10T17:09:40.000Z",
+      "updated_at": "2026-05-16T20:01:53.000Z",
+      "category_name": "Traffic Signs",
+      "category_slug": "traffic-signs",
+      "optionsObject": [
+        {
+          "optionId": 137,
+          "text_en": "No entry",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 138,
+          "text_en": "Go straight or turn right",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 139,
+          "text_en": "Go straight or turn left (mandatory)",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 1
+        },
+        {
+          "optionId": 140,
+          "text_en": "Turn only",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "category_id": 1,
+      "text_en": "The sign in the picture means",
+      "text_ur": "",
+      "text": "The sign in the picture means",
+      "image_url": "sign_36.png",
+      "created_at": "2026-05-10T17:09:40.000Z",
+      "updated_at": "2026-05-16T20:01:53.000Z",
+      "category_name": "Traffic Signs",
+      "category_slug": "traffic-signs",
+      "optionsObject": [
+        {
+          "optionId": 141,
+          "text_en": "Keep left (mandatory)",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 1
+        },
+        {
+          "optionId": 142,
+          "text_en": "Keep right",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 143,
+          "text_en": "No entry",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 144,
+          "text_en": "Turn prohibited",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "category_id": 1,
+      "text_en": "The sign in the picture means",
+      "text_ur": "",
+      "text": "The sign in the picture means",
+      "image_url": "sign_37.png",
+      "created_at": "2026-05-10T17:09:40.000Z",
+      "updated_at": "2026-05-16T20:01:53.000Z",
+      "category_name": "Traffic Signs",
+      "category_slug": "traffic-signs",
+      "optionsObject": [
+        {
+          "optionId": 145,
+          "text_en": "Keep left",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 146,
+          "text_en": "No entry on this side",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 1
+        },
+        {
+          "optionId": 147,
+          "text_en": "Keep right (no entry)",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 148,
+          "text_en": "Road closed",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "category_id": 1,
+      "text_en": "The sign in the picture means",
+      "text_ur": "",
+      "text": "The sign in the picture means",
+      "image_url": "sign_38.png",
+      "created_at": "2026-05-10T17:09:40.000Z",
+      "updated_at": "2026-05-16T20:01:53.000Z",
+      "category_name": "Traffic Signs",
+      "category_slug": "traffic-signs",
+      "optionsObject": [
+        {
+          "optionId": 149,
+          "text_en": "Keep left",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 150,
+          "text_en": "Keep right (mandatory)",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 1
+        },
+        {
+          "optionId": 151,
+          "text_en": "No entry",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 152,
+          "text_en": "Turn prohibited",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "category_id": 1,
+      "text_en": "The sign in the picture means",
+      "text_ur": "",
+      "text": "The sign in the picture means",
+      "image_url": "sign_39.png",
+      "created_at": "2026-05-10T17:09:40.000Z",
+      "updated_at": "2026-05-16T20:01:53.000Z",
+      "category_name": "Traffic Signs",
+      "category_slug": "traffic-signs",
+      "optionsObject": [
+        {
+          "optionId": 153,
+          "text_en": "One lane road ahead",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 154,
+          "text_en": "Two-lane road sign",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 155,
+          "text_en": "Lane ahead (go straight)",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 1
+        },
+        {
+          "optionId": 156,
+          "text_en": "End of lane restriction",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "category_id": 1,
+      "text_en": "The sign in the picture means",
+      "text_ur": "",
+      "text": "The sign in the picture means",
+      "image_url": "sign_40.png",
+      "created_at": "2026-05-10T17:09:40.000Z",
+      "updated_at": "2026-05-16T20:01:53.000Z",
+      "category_name": "Traffic Signs",
+      "category_slug": "traffic-signs",
+      "optionsObject": [
+        {
+          "optionId": 157,
+          "text_en": "One lane road",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 158,
+          "text_en": "Lane selection sign (straight or right)",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 1
+        },
+        {
+          "optionId": 159,
+          "text_en": "End of motorway",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 160,
+          "text_en": "Dual carriageway",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "category_id": 1,
+      "text_en": "The sign in the picture means",
+      "text_ur": "",
+      "text": "The sign in the picture means",
+      "image_url": "sign_41.png",
+      "created_at": "2026-05-10T17:09:40.000Z",
+      "updated_at": "2026-05-16T20:01:53.000Z",
+      "category_name": "Traffic Signs",
+      "category_slug": "traffic-signs",
+      "optionsObject": [
+        {
+          "optionId": 161,
+          "text_en": "One lane road",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 162,
+          "text_en": "Lane selection sign (straight with right exit)",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 1
+        },
+        {
+          "optionId": 163,
+          "text_en": "End of lane",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 164,
+          "text_en": "Merge ahead",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "category_id": 1,
+      "text_en": "The sign in the picture means",
+      "text_ur": "",
+      "text": "The sign in the picture means",
+      "image_url": "sign_42.png",
+      "created_at": "2026-05-10T17:09:40.000Z",
+      "updated_at": "2026-05-16T20:01:53.000Z",
+      "category_name": "Traffic Signs",
+      "category_slug": "traffic-signs",
+      "optionsObject": [
+        {
+          "optionId": 165,
+          "text_en": "Warning: pedestrians ahead",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 166,
+          "text_en": "Pedestrian crossing",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 1
+        },
+        {
+          "optionId": 167,
+          "text_en": "No pedestrians",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 168,
+          "text_en": "Pedestrian zone",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "category_id": 1,
+      "text_en": "The sign in the picture means",
+      "text_ur": "",
+      "text": "The sign in the picture means",
+      "image_url": "sign_43.png",
+      "created_at": "2026-05-10T17:09:40.000Z",
+      "updated_at": "2026-05-16T20:01:53.000Z",
+      "category_name": "Traffic Signs",
+      "category_slug": "traffic-signs",
+      "optionsObject": [
+        {
+          "optionId": 169,
+          "text_en": "No parking",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 170,
+          "text_en": "Parking allowed (P)",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 1
+        },
+        {
+          "optionId": 171,
+          "text_en": "No stopping",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 172,
+          "text_en": "Bus stop",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "category_id": 1,
+      "text_en": "The sign in the picture means",
+      "text_ur": "",
+      "text": "The sign in the picture means",
+      "image_url": "sign_44.png",
+      "created_at": "2026-05-10T17:09:40.000Z",
+      "updated_at": "2026-05-16T20:01:53.000Z",
+      "category_name": "Traffic Signs",
+      "category_slug": "traffic-signs",
+      "optionsObject": [
+        {
+          "optionId": 173,
+          "text_en": "No entry road",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 174,
+          "text_en": "Dead end / No through road",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 1
+        },
+        {
+          "optionId": 175,
+          "text_en": "One way road",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 176,
+          "text_en": "Road closed",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "category_id": 1,
+      "text_en": "The sign in the picture means",
+      "text_ur": "",
+      "text": "The sign in the picture means",
+      "image_url": "sign_45.png",
+      "created_at": "2026-05-10T17:09:40.000Z",
+      "updated_at": "2026-05-16T20:01:53.000Z",
+      "category_name": "Traffic Signs",
+      "category_slug": "traffic-signs",
+      "optionsObject": [
+        {
+          "optionId": 177,
+          "text_en": "Pedestrian crossing",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 178,
+          "text_en": "Warning: school children",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 1
+        },
+        {
+          "optionId": 179,
+          "text_en": "No children",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 180,
+          "text_en": "Play area ahead",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "category_id": 1,
+      "text_en": "The sign in the picture means",
+      "text_ur": "",
+      "text": "The sign in the picture means",
+      "image_url": "sign_46.png",
+      "created_at": "2026-05-10T17:09:40.000Z",
+      "updated_at": "2026-05-16T20:01:53.000Z",
+      "category_name": "Traffic Signs",
+      "category_slug": "traffic-signs",
+      "optionsObject": [
+        {
+          "optionId": 181,
+          "text_en": "Road narrows",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 182,
+          "text_en": "Sharp bend ahead (chevron)",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 1
+        },
+        {
+          "optionId": 183,
+          "text_en": "Road closed",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 184,
+          "text_en": "Speed bump",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "category_id": 1,
+      "text_en": "The sign in the picture means",
+      "text_ur": "",
+      "text": "The sign in the picture means",
+      "image_url": "sign_47.png",
+      "created_at": "2026-05-10T17:09:40.000Z",
+      "updated_at": "2026-05-16T20:01:53.000Z",
+      "category_name": "Traffic Signs",
+      "category_slug": "traffic-signs",
+      "optionsObject": [
+        {
+          "optionId": 185,
+          "text_en": "Expressway road marking",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 186,
+          "text_en": "Blue road (motorway marking)",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 1
+        },
+        {
+          "optionId": 187,
+          "text_en": "Pedestrian lane",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 188,
+          "text_en": "Parking lane",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "category_id": 1,
+      "text_en": "The sign in the picture means",
+      "text_ur": "",
+      "text": "The sign in the picture means",
+      "image_url": "sign_48.png",
+      "created_at": "2026-05-10T17:09:40.000Z",
+      "updated_at": "2026-05-16T20:01:53.000Z",
+      "category_name": "Traffic Signs",
+      "category_slug": "traffic-signs",
+      "optionsObject": [
+        {
+          "optionId": 189,
+          "text_en": "Single yellow line",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 190,
+          "text_en": "Double yellow line (no parking both sides)",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 1
+        },
+        {
+          "optionId": 191,
+          "text_en": "White lane marking",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 192,
+          "text_en": "Blue motorway marking",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "category_id": 1,
+      "text_en": "The sign in the picture means",
+      "text_ur": "",
+      "text": "The sign in the picture means",
+      "image_url": "sign_49.png",
+      "created_at": "2026-05-10T17:09:40.000Z",
+      "updated_at": "2026-05-16T20:01:53.000Z",
+      "category_name": "Traffic Signs",
+      "category_slug": "traffic-signs",
+      "optionsObject": [
+        {
+          "optionId": 193,
+          "text_en": "Stop line at intersection",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 194,
+          "text_en": "Pedestrian crossing markings",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 1
+        },
+        {
+          "optionId": 195,
+          "text_en": "Speed limit line",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 196,
+          "text_en": "Yield line",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "category_id": 1,
+      "text_en": "The sign in the picture means",
+      "text_ur": "",
+      "text": "The sign in the picture means",
+      "image_url": "sign_50.png",
+      "created_at": "2026-05-10T17:09:40.000Z",
+      "updated_at": "2026-05-16T20:01:53.000Z",
+      "category_name": "Traffic Signs",
+      "category_slug": "traffic-signs",
+      "optionsObject": [
+        {
+          "optionId": 197,
+          "text_en": "Vehicles parked side by side",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 198,
+          "text_en": "Overtaking on two-lane road",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 1
+        },
+        {
+          "optionId": 199,
+          "text_en": "Wrong side driving",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 200,
+          "text_en": "Lane discipline on road",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "category_id": 1,
+      "text_en": "The sign in the picture means",
+      "text_ur": "",
+      "text": "The sign in the picture means",
+      "image_url": "sign_51.png",
+      "created_at": "2026-05-10T17:09:40.000Z",
+      "updated_at": "2026-05-16T20:01:53.000Z",
+      "category_name": "Traffic Signs",
+      "category_slug": "traffic-signs",
+      "optionsObject": [
+        {
+          "optionId": 201,
+          "text_en": "Vehicles on same lane",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 202,
+          "text_en": "Safe following distance",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 1
+        },
+        {
+          "optionId": 203,
+          "text_en": "Overtaking",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 204,
+          "text_en": "Wrong direction driving",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "category_id": 1,
+      "text_en": "The sign in the picture means",
+      "text_ur": "",
+      "text": "The sign in the picture means",
+      "image_url": "sign_52.png",
+      "created_at": "2026-05-10T17:09:40.000Z",
+      "updated_at": "2026-05-16T20:01:53.000Z",
+      "category_name": "Traffic Signs",
+      "category_slug": "traffic-signs",
+      "optionsObject": [
+        {
+          "optionId": 205,
+          "text_en": "Two-lane overtaking",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 206,
+          "text_en": "Dangerous overtaking scenario",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 1
+        },
+        {
+          "optionId": 207,
+          "text_en": "Safe road driving",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 208,
+          "text_en": "Motorway driving",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "category_id": 1,
+      "text_en": "The sign in the picture means",
+      "text_ur": "",
+      "text": "The sign in the picture means",
+      "image_url": "sign_53.png",
+      "created_at": "2026-05-10T17:09:40.000Z",
+      "updated_at": "2026-05-16T20:01:53.000Z",
+      "category_name": "Traffic Signs",
+      "category_slug": "traffic-signs",
+      "optionsObject": [
+        {
+          "optionId": 209,
+          "text_en": "Empty road",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 210,
+          "text_en": "Single lane road",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 211,
+          "text_en": "Two-lane road with center marking",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 1
+        },
+        {
+          "optionId": 212,
+          "text_en": "Motorway lane",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "category_id": 1,
+      "text_en": "The sign in the picture means",
+      "text_ur": "",
+      "text": "The sign in the picture means",
+      "image_url": "sign_54.png",
+      "created_at": "2026-05-10T17:09:40.000Z",
+      "updated_at": "2026-05-16T20:01:53.000Z",
+      "category_name": "Traffic Signs",
+      "category_slug": "traffic-signs",
+      "optionsObject": [
+        {
+          "optionId": 213,
+          "text_en": "Road junction diagram",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 1
+        },
+        {
+          "optionId": 214,
+          "text_en": "Motorway intersection",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 215,
+          "text_en": "Crossroads ahead",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 216,
+          "text_en": "Traffic signal junction",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "category_id": 1,
+      "text_en": "The sign in the picture means",
+      "text_ur": "",
+      "text": "The sign in the picture means",
+      "image_url": "sign_55.png",
+      "created_at": "2026-05-10T17:09:40.000Z",
+      "updated_at": "2026-05-16T20:01:53.000Z",
+      "category_name": "Traffic Signs",
+      "category_slug": "traffic-signs",
+      "optionsObject": [
+        {
+          "optionId": 217,
+          "text_en": "Traffic warden facing you (stop signal)",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 1
+        },
+        {
+          "optionId": 218,
+          "text_en": "Traffic police directing traffic",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 219,
+          "text_en": "Security guard",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 220,
+          "text_en": "Road worker",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "category_id": 1,
+      "text_en": "The sign in the picture means",
+      "text_ur": "",
+      "text": "The sign in the picture means",
+      "image_url": "sign_56.png",
+      "created_at": "2026-05-10T17:09:40.000Z",
+      "updated_at": "2026-05-16T20:01:53.000Z",
+      "category_name": "Traffic Signs",
+      "category_slug": "traffic-signs",
+      "optionsObject": [
+        {
+          "optionId": 221,
+          "text_en": "Traffic warden with back to you (proceed)",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 1
+        },
+        {
+          "optionId": 222,
+          "text_en": "Police officer stopping traffic",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 223,
+          "text_en": "Road marshal",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 224,
+          "text_en": "Traffic controller",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "category_id": 1,
+      "text_en": "The sign in the picture means",
+      "text_ur": "",
+      "text": "The sign in the picture means",
+      "image_url": "sign_57.png",
+      "created_at": "2026-05-10T17:09:40.000Z",
+      "updated_at": "2026-05-16T20:01:53.000Z",
+      "category_name": "Traffic Signs",
+      "category_slug": "traffic-signs",
+      "optionsObject": [
+        {
+          "optionId": 225,
+          "text_en": "Speed limit sign",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 226,
+          "text_en": "Motorway distance board",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 227,
+          "text_en": "Green motorway sign (3 lines = 300m to exit)",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 1
+        },
+        {
+          "optionId": 228,
+          "text_en": "Junction sign",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "category_id": 1,
+      "text_en": "The sign in the picture means",
+      "text_ur": "",
+      "text": "The sign in the picture means",
+      "image_url": "sign_58.png",
+      "created_at": "2026-05-10T17:09:40.000Z",
+      "updated_at": "2026-05-16T20:01:53.000Z",
+      "category_name": "Traffic Signs",
+      "category_slug": "traffic-signs",
+      "optionsObject": [
+        {
+          "optionId": 229,
+          "text_en": "Speed limit board",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 230,
+          "text_en": "Motorway sign (M2 motorway)",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 1
+        },
+        {
+          "optionId": 231,
+          "text_en": "Junction number",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        },
+        {
+          "optionId": 232,
+          "text_en": "Distance marker",
+          "text_ur": "",
+          "image_url": null,
+          "isCorrect": 0
+        }
+      ]
+    }
+  ],
+  "count": 58
+}
